@@ -1,4 +1,4 @@
-# Fractal Generator GUI – CS 3005: Programming in C++
+# Fractal Generator GUI – CS 3005: Programming in C++ - 2023
 
 This repository contains programs and files from my **CS 3005: Programming in C++** course.  
 The primary project is a **Graphical User Interface (GUI)** that allows users to generate and explore various fractals.
